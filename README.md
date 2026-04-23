@@ -48,6 +48,4 @@
 ## 📫 Conéctate conmigo
 * ¡Siempre estoy abierto a colaborar en proyectos de código y bases de datos!
 
-## 📌 Notas
 
-Información adicional que el estudiante desee agregar.
