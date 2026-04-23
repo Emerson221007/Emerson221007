@@ -8,7 +8,7 @@
 
 - **Nombre:** Emerson Leandro Cruz Martínez
 - **Edad:** 17 años
-- **Grado:** 3° Técnico Administrativo Contable / Software "B"
+- **Grado:** 3° "B"
 - **Especialidad:** Desarrollo de Software
 - **Institución:** Instituto Nacional De Santiago De María (INSM)
 
