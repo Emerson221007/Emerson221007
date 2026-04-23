@@ -1,55 +1,52 @@
 <p align="center">
-  <img src="https://github.com/Emerson221007/Emerson221007/blob/main/Gemini_Generated_Image_3u27x23u27x23u27.png?raw=true" />
+  <img src="https://github.com/Emerson221007/Emerson221007/blob/main/Gemini_Generated_Image_3u27x23u27x23u27.png?raw=true" width="100%" />
 </p>
+
 # 📘 README – Perfil del Estudiante
 
 ## 🧾 Información General
 
-- **Nombre completo:**  
-- **Edad:**  
-- **Grado / Sección:**  
-- **Especialidad:**  
-- **Institución:**  
+- **Nombre:** Emerson Leandro Cruz Martínez
+- **Edad:** 17 años
+- **Grado:** 3° Técnico Administrativo Contable / Software "B"
+- **Especialidad:** Desarrollo de Software
+- **Institución:** Instituto Nacional De Santiago De María (INSM)
 
 ---
 
 ## 🎯 Intereses
 
-- Interés 1  
-- Interés 2  
-- Interés 3  
+* **Arquitectura de Datos:** Diseño y optimización de bases de datos relacionales.
+* **Desarrollo Backend:** Creación de lógica de servidor eficiente y segura.
+* **Inteligencia Artificial:** Exploración de herramientas y modelos generativos para mejorar la productividad en el código.
 
 ---
 
 ## 🧠 Habilidades
 
-- Habilidad 1  
-- Habilidad 2  
-- Habilidad 3  
+* **Normalización de Datos:** Aplicación de reglas hasta 3NF para asegurar la integridad de la información.
+* **Resolución de Problemas:** Capacidad analítica para transformar procesos de negocio en soluciones digitales.
+* **Trabajo en Equipo:** Colaboración técnica siguiendo metodologías de desarrollo.
 
 ---
 
 ## 💻 Conocimientos Técnicos
 
-- Lenguajes de programación:  
-- Herramientas tecnológicas:  
-- Otros conocimientos:  
+* **Lenguajes de programación:** SQL (T-SQL), C# (o el que estés cursando), JavaScript.
+* **Herramientas tecnológicas:** SQL Server Management Studio (SSMS), Visual Studio Code, Git/GitHub.
+* **Otros conocimientos:** Modelado Entidad-Relación (DER), gestión de consultas complejas y mantenimiento de sistemas.
 
 ---
 
 ## 📚 Experiencia Académica
 
-- Proyecto o trabajo 1  
-- Proyecto o trabajo 2  
+* **Sistema de Gestión para Agencia de Viajes:** Diseño y desarrollo de una base de datos normalizada para el control de vuelos, hoteles y reservas.
+* **Optimización de Consultas en SQL Server:** Implementación de scripts avanzados para la gestión de precios y servicios integrados.
 
 ---
 
-## 🎯 Objetivos Personales
-
-- Objetivo 1  
-- Objetivo 2  
-
----
+## 📫 Conéctate conmigo
+* ¡Siempre estoy abierto a colaborar en proyectos de código y bases de datos!
 
 ## 📌 Notas
 
